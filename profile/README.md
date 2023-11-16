@@ -7,7 +7,7 @@ Polygon specialises in the development of data collection and analysis tools tai
 We are currently building two platforms:
 
  - The **population survey platform** offers tools that simplify the data
-   collection process . Our platform is designed for multiple types of
+   collection process. Our platform is designed for multiple types of
    studies, and integrates various features such as geospatial data
    capture, network analysis, and momentary tracking.
    
