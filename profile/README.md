@@ -15,8 +15,8 @@ We are currently building two platforms:
    of a group of actors regarding a given issue. It draws on two proven
    methods used to tackle this type of problem: [Concept Mapping
    (CM*)](https://www.polygon.company/tools-en/concept-mapping) and
-   [Fuzzy Cognitive Mapping
-   (FCM*)](https://www.polygon.company/tools-en/fuzzy-cognitive-mapping).
+   [Fuzzy Cognitive Maps
+   (FCM*)](https://www.polygon.company/tools-en/fuzzy-cognitive-maps).
 
 You can learn about upcoming Polygon features in our roadmap (Notion)
 
