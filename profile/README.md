@@ -1,4 +1,4 @@
-![Polygon](https://res.cloudinary.com/treksoft/image/upload/v1700247133/polygon-company/banniere-github.png)
+![Polygon](https://res.cloudinary.com/treksoft/image/upload/v1700255612/polygon-company/banniere-github.png)
 
 # Bonjour 👋
 
